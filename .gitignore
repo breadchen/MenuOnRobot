@@ -1,0 +1,6 @@
+*.exe
+*.config
+*.pdb
+*.log
+*.resources
+*.cache
