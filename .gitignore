@@ -4,3 +4,5 @@
 *.log
 *.resources
 *.cache
+UpgradeLog.XML
+*.tlog
